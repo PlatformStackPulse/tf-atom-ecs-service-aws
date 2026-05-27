@@ -1,0 +1,5 @@
+{
+  "molecules": [
+    "tf-molecule-ecs-fargate-service-aws"
+  ]
+}
